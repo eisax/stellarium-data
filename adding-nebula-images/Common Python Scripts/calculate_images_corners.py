@@ -10,6 +10,8 @@
 # normalize_vector(u): Normalizes a 3D vector to a unit vector.
 
 
+import utils.transport
+import utils.session
 from coord import *
 import math
 
